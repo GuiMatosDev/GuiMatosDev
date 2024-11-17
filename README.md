@@ -1,7 +1,6 @@
 ## Hello World! 👋
 
-- 📚 I'm a programming student, currently interested in:
-C and Python
+- 📚 I'm a programming student.
 
 
 
