@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-- 📚 I'm a programming student.
+- 📚 I'm student.
 
 
 
